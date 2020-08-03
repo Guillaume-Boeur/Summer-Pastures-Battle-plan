@@ -8,9 +8,7 @@ I would like to improve my actual **Javascript** skills with *"little games"* li
 
 ## Week 2 : 13/07 - 17/07
 
-I need to do a **responsive** one page website as a CV ( about me, my skills, etc ) and "deployd" it maybe as *https://guillaume-boeur.be* and how to do this with a free DNS...
-
-Secondly, i will do my basic v1.0 **portfolio** with **React** ready to "receive" my actual and futur project.
+Do a beautiful CV, motivation letter, linkedin profil and find an Internship ( ==> **Found !!** )
 
 ## Week 3 : 20/07 - 24/07
 
@@ -26,8 +24,21 @@ Secondly, I have seen on several front end job offers "basic Node.js knowledge r
 
 BEM, Sass and Bootstrap in deeper
 
- ## Week 6 and after (*...is building...*)
+Learn **Vue.js** and do a Portfolio with it.
 
+## Week 6 : 10/08 - 14/08 (*...is building...*)
+
+## Week 7 : 17/08 - 21/08 (*...is building...*)
+
+## Week 8 : 24/08 - 28/08 (*...is building...*)
+
+## Week 9 : 31/08 - 04/09 (*...is building...*)
+
+## Week 10 : 07/09 - 11/09 (*...is building...*)
+
+## **Start**  of Internship : 11/09 
+
+## **End** of Internship : 14/12
 
 ***
 
