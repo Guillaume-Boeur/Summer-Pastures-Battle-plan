@@ -22,14 +22,12 @@ Secondly, I have seen on several front end job offers "basic Node.js knowledge r
 
 **HOLIDAY 2** 
 
-## Week 5 and after (*...is building...*)
+## Week 5 : 03/08 - 07/08
 
-* Learn **"Testing"** (**Jest, Enzyme,...**) and try it on the Mwenbwa project.
-* (Review my old project)
-* Learn **styled components** and **css Modules**
-* Learn **Redux**
-* Learn **React Native**
-* ...
+BEM, Sass and Bootstrap in deeper
+
+ ## Week 6 and after (*...is building...*)
+
 
 ***
 
