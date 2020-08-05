@@ -2,6 +2,8 @@
 
 >I am now following a career path towards Front-end development. I will learn/improve about it during my pastures.
 
+> 05/08 : In medium term, after few years, i would like to be "freelancer". So I need to learn more back-end knowledge.
+
 ## Week 1 : 06/07 - 10/07
 
 I would like to improve my actual **Javascript** skills with *"little games"* like Memrise game and Tetris ( or Snake ) in Full JS vanilla.
@@ -22,11 +24,13 @@ Secondly, I have seen on several front end job offers "basic Node.js knowledge r
 
 ## Week 5 : 03/08 - 07/08
 
-BEM, Sass and Bootstrap in deeper
+* BEM, Sass and Bootstrap in deeper
 
-Learn **Vue.js** and do a Portfolio with it.
+* Discover **C#** and **Unity** to prepare my internship.
 
-## Week 6 : 10/08 - 14/08 (*...is building...*)
+## Week 6 : 10/08 - 14/08
+
+Do a **responsive interface** using **C#** with **Unity**. A task ask to prepare my internship.
 
 ## Week 7 : 17/08 - 21/08 (*...is building...*)
 
