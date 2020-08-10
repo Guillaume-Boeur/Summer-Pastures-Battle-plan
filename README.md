@@ -24,13 +24,13 @@ Secondly, I have seen on several front end job offers "basic Node.js knowledge r
 
 ## Week 5 : 03/08 - 07/08
 
-* BEM, Sass and Bootstrap in deeper
-
+* BEM, Sass and Bootstrap in deeper.
 * Discover **C#** and **Unity** to prepare my internship.
 
 ## Week 6 : 10/08 - 14/08
 
-Do a **responsive interface** using **C#** with **Unity**. A task ask to prepare my internship.
+* Learn C# in deeper.
+* Do a **responsive interface** using **C#** with **Unity**. A task ask to prepare my internship.
 
 ## Week 7 : 17/08 - 21/08 (*...is building...*)
 
