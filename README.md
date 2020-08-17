@@ -32,7 +32,10 @@ Secondly, I have seen on several front end job offers "basic Node.js knowledge r
 * Learn C# in deeper.
 * Do a **responsive interface** using **C#** with **Unity**. A task ask to prepare my internship.
 
-## Week 7 : 17/08 - 21/08 (*...is building...*)
+## Week 7 : 17/08 - 21/08
+
+* Learn C# OOP
+* Do a FlappyBird with C# and Unity
 
 ## Week 8 : 24/08 - 28/08 (*...is building...*)
 
